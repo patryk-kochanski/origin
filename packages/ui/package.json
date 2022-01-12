@@ -126,8 +126,8 @@
     "@storybook/addon-storyshots": "6.4.9",
     "@storybook/addon-storysource": "6.4.9",
     "@storybook/addons": "6.4.9",
-    "@storybook/builder-webpack5": "6.4.7",
-    "@storybook/manager-webpack5": "6.4.7",
+    "@storybook/builder-webpack5": "6.4.12",
+    "@storybook/manager-webpack5": "6.4.12",
     "@storybook/react": "6.4.7",
     "@storybook/theming": "6.4.9",
     "@svgr/rollup": "5.5.0",
@@ -172,7 +172,7 @@
     "tsconfig-paths-webpack-plugin": "3.5.2",
     "typescript": "4.5.4",
     "url-loader": "4.1.1",
-    "webpack": "5.64.4",
+    "webpack": "5.66.0",
     "webpack-bundle-analyzer": "4.5.0"
   },
   "workspaces": [
